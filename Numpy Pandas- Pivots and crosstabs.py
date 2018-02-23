@@ -22,10 +22,6 @@
 #    * Create a cross tab to show the average mpg of each brand and each clinder value. Use "brand" as row index and "cylinders" as column index. 
 #  - This function does not have any return. Just print out the result of each calculation step.
 
-# ## Submission Guideline##
-# - Following the solution template provided below. Use __main__ block to test your functions
-# - Save your code into a python file (e.g. assign1.py) that can be run in a python 3 environment. In Jupyter Notebook, you can export notebook as .py file in menu "File->Download as".
-# - Make sure you have all import statements. To test your code, open a command window in your current python working folder, type "python assign1.py" to see if it can run successfully.
 
 # In[63]:
 
