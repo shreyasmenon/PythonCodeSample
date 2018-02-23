@@ -33,11 +33,6 @@
 #  - Note, for all the steps, ** do not use any loop**. Just use array functions and broadcasting for high performance computation.
 #      
 # 
-# ## Submission Guideline##
-# - Following the solution template provided below. Use __main__ block to test your functions and class
-# - Save your code into a python file (e.g. assign1.py) that can be run in a python 3 environment. In Jupyter Notebook, you can export notebook as .py file in menu "File->Download as".
-# - Make sure you have all import statements. To test your code, open a command window in your current python working folder, type "python assign1.py" to see if it can run successfully.
-
 # In[80]:
 
 
